@@ -34,8 +34,10 @@ Each type of resource can have multiple instance. Requester can make request to 
 
 ### Screen Shots:
 1. Resources:
+ 
     #### All resources
     ![resources](https://github.com/gbohra/get-16-booking/blob/master/resources.png)
+  
     #### Resource info
     ![resource info](https://github.com/gbohra/get-16-booking/blob/master/edit_resource.png)
 2. Booking:
